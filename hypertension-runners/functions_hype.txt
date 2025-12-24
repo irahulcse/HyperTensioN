@@ -1,0 +1,9 @@
+rb_st_lookup
+rb_hash_aset
+rb_hash_aref
+rb_ary_includes
+rb_gc_writebarrier
+rb_equal
+rb_vm_exec
+rb_ec_backtrace_object
+rb_exec_recursive_paired

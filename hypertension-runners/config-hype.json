@@ -1,0 +1,7 @@
+{
+  "input_directory": "../benchmarks/domains",
+  "output_directory": "./output_hype_results",
+  "function_selection_file": "./functions_hype.txt",
+  "binary_path": "../HyperTensioN/Hype.rb",
+  "repetitions": 30
+}
