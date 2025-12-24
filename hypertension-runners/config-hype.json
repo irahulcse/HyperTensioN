@@ -1,7 +1,10 @@
 {
-  "input_directory": "../benchmarks/domains",
-  "output_directory": "./energy_results",
-  "function_selection_file": "./functions_hype.txt",
-  "binary_path": "../HyperTensioN/Hype.rb",
-  "repetitions": 30
+  "project_root": "/home/rahul/Desktop/HyperTensioN",
+  "input_directory": "benchmarks/domains",
+  "output_directory": "energy_results",
+  "function_selection_file": "hypertension-runners/functions_hype.txt",
+  "binary_path": "./wrap_hype.sh",
+  "repetitions": 30,
+  "timeout": 600,
+  "debug": true
 }
